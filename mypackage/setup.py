@@ -9,10 +9,10 @@ setuptools.setup(
      author_email="avneesh.gupta@paytm.com",
      description="Utility package",
      long_description=long_description,
-   long_description_content_type="text/markdown",
+     long_description_content_type="text/markdown",
      url="https://github.com/avneesh-gupta/tested_repo",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
      ],
- )
+)
